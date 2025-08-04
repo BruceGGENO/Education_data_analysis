@@ -1,23 +1,9 @@
+# Names: Geno BRUCE
+# ID: 27193
 
-# SDG 4: Quality Education Analytics
+# SDG: Quality Education Analytics
 
-This project explores Sustainable Development Goal 4: Quality Education using a dataset from a global education database. It includes Python-based analytics and a Power BI dashboard to uncover trends, clusters, and insights in education metrics across countries.
-
----
-
-## 📂 Project Structure
-
-```
-📁 SDG-Education-Analytics/
-│
-├── data/
-│   └── cleaned_education_data.csv
-├── notebooks/
-│   └── education_analysis.ipynb
-├── powerbi/
-│   └── education_dashboard.pbix  # (To be added)
-├── README.md
-```
+This project explores Sustainable Development Goal: Quality Education using a dataset from a global education database. It includes Python-based analytics and a Power BI dashboard to uncover trends, and insights in education metrics across countries.
 
 ---
 
@@ -78,13 +64,6 @@ To analyze and visualize education indicators across countries to:
 
 ---
 
-## 🚀 How to Use
-
-1. Open `notebooks/education_analysis.ipynb` to explore the Python analysis.
-2. Use the cleaned dataset in `data/cleaned_education_data.csv`.
-3. Open the Power BI file (to be added) in Power BI Desktop.
-
----
 
 ## 📌 Results & Insights
 
@@ -94,16 +73,8 @@ To analyze and visualize education indicators across countries to:
 
 ---
 
-## 📌 Future Work
 
-- Integrate more indicators (e.g., internet access in schools)
-- Apply time-series forecasting (e.g., ARIMA or LSTM)
-- Link to other SDGs for cross-domain insights
-
----
 
 ## 🙌 Acknowledgements
 
 Instructor: *Eric Maniraguha*  
-Course: *Introduction to Big Data Analytics – INSY 8413*  
-Academic Year: *2024–2025, SEM III*
